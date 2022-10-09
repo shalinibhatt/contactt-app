@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane ",
+      "email": "jane@gmail.com"
+    },
+    {
+      "id": "8ec588bd-e666-439a-8c8c-6fc39bfa5b75",
+      "name": "Shalini Bhatt",
+      "email": "reachtoshalinibhatt@gmail.com"
+    }
+  ]
+}
